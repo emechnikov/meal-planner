@@ -1,0 +1,13 @@
+{
+  "name": "Meal Planner",
+  "short_name": "Meal Plan",
+  "description": "Планировщик питания с рецептами и списком покупок",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ec",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
